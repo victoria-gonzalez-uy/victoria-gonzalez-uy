@@ -1,6 +1,6 @@
 # Victoria Gonzalez
 
-QA automation engineer from Uruguay. Over 2 years at Tata Consultancy Services, working for a U.S. banking client. Finishing a degree in accounting (Dec 2026).
+QA automation engineer from Uruguay.
 
 **Tools:** Java, TypeScript, SQL · Selenium WebDriver, TestNG, Playwright · Postman · Git, GitHub, Azure DevOps
 
